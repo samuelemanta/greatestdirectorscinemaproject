@@ -1,0 +1,14 @@
+/* CSS Selectors */
+
+img{width: 310px;}
+h1{font-size: 70px;text-align: center;}
+#finalh3{font-style: italic;border: 3px solid; text-decoration: underline 2px;}
+.class{font-size: 23px;}
+*{font-family: "Roboto", serif;}
+
+/* CSS Colors */
+
+body{background-color: #F8FAE5;}
+h1{color: #43766C;}
+h2,h3{color: #423424}
+p,li{color: #55322b;}
